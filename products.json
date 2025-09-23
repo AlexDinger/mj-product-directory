@@ -1,0 +1,464 @@
+[
+  {
+    "productName": "Advion Ant Gel",
+    "epaRegNumber": "100-1498",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Advion%20Ant%20Gel/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Advion%20Ant%20Gel/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Altosid Pro-G",
+    "epaRegNumber": "2724-451",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Altosid%20Pro-G/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Altosid%20Pro-G/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Aqua-Kontrol 30-30",
+    "epaRegNumber": "73748-11",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Aqua-Kontrol%2030-30/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Aqua-Kontrol%2030-30/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Bifen I/T",
+    "epaRegNumber": "53883-118",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Bifen%20IT/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Bifen%20IT/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Deer Out",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Deer%20Out/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Deer%20Out/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Deer Scram Pro",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Deer%20Scram%20Pro/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Deer%20Scram%20Pro/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "DominAnt",
+    "epaRegNumber": "64405-23",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/DominAnt/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/DominAnt/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Dominion Tree & Shrub",
+    "epaRegNumber": "53883-205",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Dominion%20Tree%20%26%20Shrub/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Dominion%20Tree%20%26%20Shrub/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Duraflex ZC",
+    "epaRegNumber": "53883-426",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/DuraFlex%20ZC/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/DuraFlex%20ZC/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "EcoVia EC",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/EcoVia%20EC/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/EcoVia%20EC/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "EcoVia G",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/EcoVia%20G/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/EcoVia%20G/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "EcoVia MT",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/EcoVia%20MT/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/EcoVia%20MT/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "EcoVia WD",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/EcoVia%20WD/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/EcoVia%20WD/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Fuse",
+    "epaRegNumber": "53883-328",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Fuse/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Fuse/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Imidacloprid 2F",
+    "epaRegNumber": "53883-514",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Imidacloprid%202F/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Imidacloprid%202F/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Kinetic",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Kinetic/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Kinetic/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Mosquito Barrier",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Mosquito%20Barrier/label.pdf"
+      },
+      {
+        "type": "MSDS",
+        "url": "documents/Mosquito%20Barrier/msds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Nature-Cide G",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Nature-Cide G/label&sds.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Nature-Cide G/label&sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "New Balance",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/New%20Balance/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/New%20Balance/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Niban",
+    "epaRegNumber": "64405-2",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Niban/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Niban/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "PT Alpine Fly Bait",
+    "epaRegNumber": "499-568",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/PT Alpine Fly Bait/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/PT Alpine Fly Bait/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "PT Wasp Freeze II",
+    "epaRegNumber": "499-550",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/PT%20Wasp%20Freeze%20II/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/PT%20Wasp%20Freeze%20II/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Scion",
+    "epaRegNumber": "279-3612",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Scion/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Scion/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Stop the Bites",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Stop%20the%20Bites/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Stop%20the%20Bites/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Stik-Kote",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Stik-Kote/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Stik-Kote/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Summit B.T.I. Briquets",
+    "epaRegNumber": "6218-47",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Summit%20B.T.I.%20Briquets/label.pdf"
+      },
+      {
+        "type": "MSDS",
+        "url": "documents/Summit%20B.T.I%20Briquets/msds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Surf-Ac 820",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Surf-Ac%20820/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Surf-Ac%20820/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Tekko Pro",
+    "epaRegNumber": "53883-335",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Tekko%20Pro/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Tekko%20Pro/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Tempo 1% Dust",
+    "epaRegNumber": "432-1373",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Tempo%201%25%20Dust/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Tempo%201%25%20Dust/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Thermacell Tick Control Tubes",
+    "epaRegNumber": "71910-10",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Thermacell%20Tick%20Control%20Tubes/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Thermacell%20Tick%20Control%20Tubes/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Vector Kleer",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Vector%20Kleer/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Vector%20Kleer/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Web Out",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Web%20Out/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Web%20Out/sds.pdf"
+      }
+    ]
+  },
+  {
+    "productName": "Zero-Bite",
+    "epaRegNumber": "Exempt",
+    "documents": [
+      {
+        "type": "Label",
+        "url": "documents/Zero-Bite/label.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "documents/Zero-Bite/sds.pdf"
+      }
+    ]
+  }
+]
