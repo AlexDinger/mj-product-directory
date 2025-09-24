@@ -118,7 +118,6 @@ footer {
 }
 
 .form-wrapper {
-    min-width: 30%;
     border-radius: 10px;
     background-color: #2e2e37;
     color: #fff;
@@ -139,11 +138,13 @@ footer {
 }
 
 .form-wrapper input[type="password"] {
-    height: 40px;
+    height: 50px;
     background-color: #19181d;
     border: none;
+    padding: 0;
     padding-left: 10px;
     color: #fff;
+    font-size: 1.5rem;
 }
 
 .btn {

@@ -1,16 +1,12 @@
-// if (window.prompt("Enter the password") === "pass") {
-//     populateProducts();
-//     document.querySelector('body').style.display = "block";
-// }
 
 const passwordForm = document.querySelector('#password-form');
 const directory = document.querySelector('#directory');
-const password = document.querySelector('input');
+const input = document.querySelector('input');
+const password = "mojo"
 
 addEventListener("submit", (e) => {
     e.preventDefault();
-    if (password.value === "password") {
-        console.log('test')
+    if (input.value === password) {
         passwordForm.style.display = "none";
         directory.style.display = "block";
         populateProducts();
