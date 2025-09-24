@@ -1,7 +1,21 @@
-if (window.prompt("Enter the password") === "pass") {
-    populateProducts();
-    document.querySelector('body').style.display = "block";
-}
+// if (window.prompt("Enter the password") === "pass") {
+//     populateProducts();
+//     document.querySelector('body').style.display = "block";
+// }
+
+const passwordForm = document.querySelector('#password-form');
+const directory = document.querySelector('#directory');
+const password = document.querySelector('input');
+
+addEventListener("submit", (e) => {
+    e.preventDefault();
+    if (password.value === "password") {
+        console.log('test')
+        passwordForm.style.display = "none";
+        directory.style.display = "block";
+        populateProducts();
+    }
+})
 
 function createTable(products) {
     products.forEach(product => {

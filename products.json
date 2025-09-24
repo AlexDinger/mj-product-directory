@@ -98,20 +98,6 @@
     ]
   },
   {
-    "productName": "Dominion Tree & Shrub",
-    "epaRegNumber": "53883-205",
-    "documents": [
-      {
-        "type": "Label",
-        "url": "documents/Dominion%20Tree%20%26%20Shrub/label.pdf"
-      },
-      {
-        "type": "SDS",
-        "url": "documents/Dominion%20Tree%20%26%20Shrub/sds.pdf"
-      }
-    ]
-  },
-  {
     "productName": "Duraflex ZC",
     "epaRegNumber": "53883-426",
     "documents": [
@@ -192,20 +178,6 @@
       {
         "type": "SDS",
         "url": "documents/Fuse/sds.pdf"
-      }
-    ]
-  },
-  {
-    "productName": "Imidacloprid 2F",
-    "epaRegNumber": "53883-514",
-    "documents": [
-      {
-        "type": "Label",
-        "url": "documents/Imidacloprid%202F/label.pdf"
-      },
-      {
-        "type": "SDS",
-        "url": "documents/Imidacloprid%202F/sds.pdf"
       }
     ]
   },

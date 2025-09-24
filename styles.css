@@ -8,9 +8,7 @@ body {
     background-color: #19181d;
     font-family: "Open Sans", sans-serif;
     font-size: 16px;
-    display: none;
 }
-
 
 .col2 {
     padding-right: 1.2rem;
@@ -103,12 +101,77 @@ footer {
     }
 }
 
+
+#directory {
+    display: none;
+}
+
+#password-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3rem;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.form-wrapper {
+    min-width: 30%;
+    border-radius: 10px;
+    background-color: #2e2e37;
+    color: #fff;
+    width: 100%;
+    max-width: 300px;
+    padding: 4rem;
+}
+
+.form-wrapper form {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.form-wrapper label {
+    font-size: 1rem;
+    letter-spacing: .05rem;
+}
+
+.form-wrapper input[type="password"] {
+    height: 40px;
+    background-color: #19181d;
+    border: none;
+    padding-left: 10px;
+    color: #fff;
+}
+
+.btn {
+    min-height: 50px;
+    letter-spacing: .1rem;
+    font-size: 1.5rem;
+    height: 50px;
+    border-radius: 0px;
+    border: none;
+    background-color: #2e5f23;
+    color: #fff;
+    margin-top: .7rem;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #2d5a22;
+}
+
 @media (max-width: 768px) {
     body {
         font-size: 14px;
     }
     table {
         width: 100%;
+        border-radius: 0px;
+    }
+    .form-wrapper {
         border-radius: 0px;
     }
 }

@@ -16,25 +16,39 @@
   </head>
 
   <body>
-    <header>
-      <img src="icon.svg" width="200px" height="auto" />
-      <p>
-        Below is a list of products that may be used during pest control
-        treatments provided by Mosquito Joe of Wayne
-      </p>
-    </header>
-    <table>
-      <thead>
-        <tr>
-          <th class="col1">Product Name</th>
-          <th>EPA Reg #</th>
-          <th class="col2">Documents</th>
-        </tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
-    <!-- <footer></footer> -->
+    <div id="password-form">
+        <img src="icon.svg" width="200px" height="auto" />
+        <div class="form-wrapper">
+            <form id="password-check">
+                <label for="password">
+                    Password
+                </label>
+                <input type="password" id="password" name="password" />
+                <input type="submit" class="btn" value="Enter" />
+            </form>
+        </div>
+    </div>
+    <div id="directory">
+        <header>
+            <img src="icon.svg" width="200px" height="auto" />
+            <p>
+                Below is a list of products that may be used during pest control
+                treatments provided by Mosquito Joe of Wayne
+            </p>
+        </header>
+        <table>
+            <thead>
+                <tr>
+                <th class="col1">Product Name</th>
+                <th>EPA Reg #</th>
+                <th class="col2">Documents</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <!-- <footer></footer> -->
+    </div>
   </body>
     <script type="module" src="scripts.js"></script>
 </html>
